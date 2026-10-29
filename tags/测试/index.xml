@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vries Wang's Blog</title><link>https://vrieswang.top/tags/%E6%B5%8B%E8%AF%95/</link><description>记录技术与生活</description><generator>Hugo 0.168.0</generator><language>zh-cn</language><managingEditor>Vries Wang</managingEditor><lastBuildDate>Mon, 01 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://vrieswang.top/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World：Ink 主题测试</title><link>https://vrieswang.top/posts/hello-world/</link><pubDate>Mon, 01 Jan 2024 10:00:00 +0800</pubDate><guid>https://vrieswang.top/posts/hello-world/</guid><description><![CDATA[<p>这是一篇用于验证 Ink 主题的测试文章。</p>
+<h2 id="代码高亮">代码高亮</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Hello, vrieswang.top!&#34;</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h2 id="表格">表格</h2>
+<table>
+	<thead>
+			<tr>
+					<th>功能</th>
+					<th>状态</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>搜索 (Fuse.js)</td>
+					<td>✅</td>
+			</tr>
+			<tr>
+					<td>RSS</td>
+					<td>✅</td>
+			</tr>
+			<tr>
+					<td>评论</td>
+					<td>待集成</td>
+			</tr>
+	</tbody>
+</table>
+]]></description></item></channel></rss>

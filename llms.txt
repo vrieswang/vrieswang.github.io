@@ -1,0 +1,8 @@
+# Vries Wang's Blog
+
+> 记录技术与生活
+- [About](https://vrieswang.top/about/)
+- [搜索](https://vrieswang.top/search/)
+
+## Posts
+- [Hello World：Ink 主题测试](https://vrieswang.top/posts/hello-world/): 用于验证部署链路的测试文章。
